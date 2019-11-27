@@ -40,4 +40,4 @@
 						   (pvector-ref-nested-lens ny nx) (bitwise-ior _ (opposite-of direction))))]
 	[else grid]))))
 
-(maze (random 0 10) (random 0 10))
+(maze (random 1 10) (random 1 10))
