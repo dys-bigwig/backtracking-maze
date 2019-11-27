@@ -1,5 +1,4 @@
 #lang racket
-(require "../ncurses/api.rkt")
 (require "pvector-lens.rkt")
 (require data/pvector)
 (require data/collection)
